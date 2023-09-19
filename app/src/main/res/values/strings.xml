@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medical App</string>
+    <string name="encode_button">Encode image</string>
+    <string name="decode_button">Decode image</string>
+    <string name="compare_button">Compare images</string>
+    <string name="error_message">An error occurred</string>
+</resources>
